@@ -1,5 +1,7 @@
 # Article Metaphor Illustrator
 
+[English](README_EN.md)
+
 一个为中文文章生成手绘配图的 Codex Skill。
 
 把文章、文档链接或其中一段发给 Codex，它会理解内容，找到适合配图的位置，完成构思并生成 16:9 横向插图。
@@ -22,9 +24,19 @@
 
 ![一个群一个项目](examples/02-one-group-one-project.png)
 
+### 业务流程
+
+![经营数据自动巡检](examples/04-business-data-inspection.png)
+
+### 推理与关系
+
+![推理流程](examples/05-reasoning-flow.png)
+
 ### 感性文章
 
 ![最后一通电话](examples/03-last-phone-call.png)
+
+![故事继续生长](examples/06-story-keeps-growing.png)
 
 ## 使用
 
